@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dos-vordl/static/css/main.b9c31216.css",
-    "main.js": "/dos-vordl/static/js/main.60c7cd12.js",
-    "static/js/787.9fd50364.chunk.js": "/dos-vordl/static/js/787.9fd50364.chunk.js",
-    "static/media/BCSans-Bold.woff": "/dos-vordl/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/dos-vordl/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/dos-vordl/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/dos-vordl/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/dos-vordl/index.html",
-    "static/media/getFetch.cjs": "/dos-vordl/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.b9c31216.css.map": "/dos-vordl/static/css/main.b9c31216.css.map",
-    "main.60c7cd12.js.map": "/dos-vordl/static/js/main.60c7cd12.js.map",
-    "787.9fd50364.chunk.js.map": "/dos-vordl/static/js/787.9fd50364.chunk.js.map"
+    "main.css": "/yiddish-wordle/static/css/main.a9f717a6.css",
+    "main.js": "/yiddish-wordle/static/js/main.b7f9c9ed.js",
+    "static/js/787.3e73946b.chunk.js": "/yiddish-wordle/static/js/787.3e73946b.chunk.js",
+    "static/media/BCSans-Bold.woff": "/yiddish-wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/yiddish-wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/yiddish-wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/yiddish-wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/yiddish-wordle/index.html",
+    "static/media/getFetch.cjs": "/yiddish-wordle/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.a9f717a6.css.map": "/yiddish-wordle/static/css/main.a9f717a6.css.map",
+    "main.b7f9c9ed.js.map": "/yiddish-wordle/static/js/main.b7f9c9ed.js.map",
+    "787.3e73946b.chunk.js.map": "/yiddish-wordle/static/js/787.3e73946b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9c31216.css",
-    "static/js/main.60c7cd12.js"
+    "static/css/main.a9f717a6.css",
+    "static/js/main.b7f9c9ed.js"
   ]
 }
