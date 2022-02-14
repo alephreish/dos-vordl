@@ -15,8 +15,8 @@
     "howToPlay": "וויאַזוי צו שפּילן",
     "instructions": "טרעפט דאָס וואָרט אין {{tries}} פּרואוון. נאָך יעדער פּרואוו, די פאַרב פון די אותיות ווערט זיך בייטן לויט דעם ווי נאָענט אייער טרעף איז געווען צום פאַרטראַכטן וואָרט.",
     "pickYourLanguage": "אויסוועלן די שפּראַך",
-    "correctSpotInstructions": "דער אות ק געפינט זיך אין וואָרט און אופן אָטאָ פּאזיציע.",
-    "wrongSpotInstructions": "דער אות ד געפינט זיך אין וואָרט אָבער אין אַ אַנדער פּאָזיציע.",
+    "correctSpotInstructions": "דער אות ק געפינט זיך אין דעם פאַרטראַכטן וואָרט און אויף אָטאָ פּאָזיציע.",
+    "wrongSpotInstructions": "דער אות ד געפינט זיך אינעם וואָרט אָבער אין אַ אַנדער פּאָזיציע.",
     "notInWordInstructions": "דאָס וואָרט אַנטהאַלט דעם אות נ ניט.",
     "guessDistribution": "די פאַרטיילונג פון די טרעפן",
     "statistics": "סטאַטיסטיק",
@@ -48,7 +48,6 @@
         "ה"
     ],
     "aboutAuthorSentence": "דאָס איז אַן אַדאַפּטאַציע פון דער שפּיל Wordle אויף דער יידישער שפּראַך, פון <3>{{author}}</3>. ",
-    "aboutCodeSentence": "זעט דעם אָריגינעלן <1>קאָד</1> פון <3>Hannah Park</3> אָדער דעם <5>Aidan Pine's קלאָן</5> און אַדאַפּטירט עס פאַר אַן אַנדער שפּראַך! ",
-    "aboutDataSentence": "די ווערטער פאַר דער שפּיל קומען פון <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "איר קאָנט שפּילן די אָריגינעלע שפּיל <1>דאָ</1>"
+    "aboutCodeSentence": "זעט דעם אָריגינעלן <1>קאָד</1> פון <3>Hannah Park</3> אָדער דעם <5>Aidan Pine's קלאָן</5>. ",
+    "aboutDataSentence": "די ווערטער פאַר דער שפּיל קומען פון <1>{{wordListSource}}</1>. "
 }
